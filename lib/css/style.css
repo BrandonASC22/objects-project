@@ -80,3 +80,9 @@ header{
 /* START ADDING STUFF HERE! */
 
 
+#gridDiv {
+    display: grid;
+    grid-template-columns: repeat(6, auto);
+    grid-gap: 10px;
+    
+}
